@@ -1,2 +1,5 @@
 # react-app-template
-react app template for complete-react-cli
+
+npm install
+
+npm run start
